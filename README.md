@@ -12,4 +12,5 @@ nem feltétlenül a szoba hőmérséklete, (25-26 fokos szobában 35-36 celsius 
 A beolvasott adatokat egy teljesen alap html oldalra iratja ki.
 
 A program futtatása a következő képpen működik.
-
+1. Terminálban a python3 weather.py parancsal elindítható a program
+2. Böngészőben a 0.0.0.0:5000 es címen megtekinthető a Pi által érzékelt paraméterek, új értékekért csak frissíteni kell a weblapot a program folyamatosan frissíti az adatokat.
